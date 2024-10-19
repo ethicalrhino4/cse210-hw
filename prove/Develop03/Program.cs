@@ -5,9 +5,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create a Scripture object with Alma 12:26 as reference
-        Reference alma12_26 = new Reference("Alma", 12, 26);
-        Scripture almaScripture1 = new Scripture(alma12_26,
+        // Create a Scripture object with Alma 34:16 as reference
+        Reference alma34_16 = new Reference("Alma", 34, 16);
+        Scripture almaScripture1 = new Scripture(alma34_16,
             "And thus mercy can satisfy the demands of justice, and encircles them in the arms of safety, " +
             "while he that exercises no faith unto repentance is exposed to the whole law of the demands of justice; " +
             "therefore only unto him that has faith unto repentance is brought about the great and eternal plan of redemption.");
